@@ -2,8 +2,7 @@
 An Collabrative Project Consisting Of the 5 Developer Depicting the implementation of the payemnt wallet online transaction platform
 An developement of RESTful API for an Online Payment Wallet application. This API performs all the fundamental CRUD operations of any Online Wallet Banking platform with user validation at every step.
 
-Teach Stacks Implemented
-
+<h1>Teach Stacks Implemented</h1>
 
 Java
 Spring framework
@@ -13,7 +12,7 @@ MySQL
 Swagger
 Lombok
 
-Modules
+<h1>Modules</h1>
 Login Logout User authentication
 Wallet
 BankAccount
@@ -21,7 +20,7 @@ BeneficiaryDetails
 BillPayment
 Transaction
 
-Features
+<h1>Features</h1>
 
 User Login authrntication
 validation for the account number
@@ -30,7 +29,7 @@ RESTful API with CURD operations
 Functional Front End For better user experience
 
 
-Installation & Run
+<h1>Installation & Run</h1>
 
 
 #changing the server port
@@ -46,7 +45,7 @@ spring.jpa.show-sql=true
 spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
 
 
-API Root Endpoint
+<h1>API Root Endpoint</h1>
 
 
 https://localhost:8888/
